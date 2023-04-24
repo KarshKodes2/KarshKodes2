@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarshKodes2
-- 👀 I’m interested in Web3, Blockchain, IoT, Mobile and Web app development
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in Cybersecurity, Mobile and Web app development
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on any Javascript Open Souce Project
 - 📫 How to reach me Twitter:- @TheDevDJ_Karsh, Email:- aboladekasope@gmail.com
 
