@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarshKodes2
+- 👋 Hi, I’m Karshopef'oluwa [@KarshKodes2]
 - 👀 I’m interested in Cybersecurity, Mobile and Web app development
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on any Javascript Open Souce Project
