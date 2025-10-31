@@ -96,7 +96,7 @@ Fintech mobile application for digital payments and social activities. Built wit
 #### 🏥 [KIIRA Health Assistant](https://www.kiira.io)
 Women-centric health assistant helping users navigate health, find clinicians, and set up appointments. Focused on improving healthcare accessibility.
 
-#### 💼 [VULTe Banking Platform] (https://www.vulte.ng/)
+#### 💼 [VULTe Banking Platform](https://www.vulte.ng/)
 Developed AI-powered post-transaction recommendation engine using Next.js, increasing banking engagement by 10%.
 
 ---
