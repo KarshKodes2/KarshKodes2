@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Kasope Abolade 👋</h1>
+<h1 align="center">Hi, I'm Kasope Abolade 👋</h1>
 
-<h3 align="center">Senior Frontend Developer | Mobile & Web Specialist | AI Integration Architect</h3>
+<h3 align="center">Senior Frontend Developer | Mobile & Web Specialist </h3>
 
 <p align="center">
   <a href="mailto:aboladekasope@gmail.com"><img src="https://img.shields.io/badge/Email-aboladekasope%40gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -96,7 +96,7 @@ Fintech mobile application for digital payments and social activities. Built wit
 #### 🏥 [KIIRA Health Assistant](https://www.kiira.io)
 Women-centric health assistant helping users navigate health, find clinicians, and set up appointments. Focused on improving healthcare accessibility.
 
-#### 💼 VULTe Banking Platform
+#### 💼 [VULTe Banking Platform] (https://www.vulte.ng/)
 Developed AI-powered post-transaction recommendation engine using Next.js, increasing banking engagement by 10%.
 
 ---
