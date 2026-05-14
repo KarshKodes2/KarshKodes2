@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:aboladekasope@gmail.com"><img src="https://img.shields.io/badge/Email-aboladekasope%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/kabolade"><img src="https://img.shields.io/badge/LinkedIn-kabolade-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/kasopeabolade"><img src="https://img.shields.io/badge/LinkedIn-kasopeabolade-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/karshkodes2"><img src="https://img.shields.io/badge/GitHub-karshkodes2-black?style=flat-square&logo=github"></a>
   <a href="https://gitlab.com/kabolade"><img src="https://img.shields.io/badge/GitLab-kabolade-orange?style=flat-square&logo=gitlab"></a>
 </p>
@@ -111,14 +111,6 @@ Developed AI-powered post-transaction recommendation engine using Next.js, incre
 
 ---
 
-### 💭 Philosophy
-
-<p align="center">
-  <i>"Questions, Not Answers create knowledge."</i>
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 I'm always interested in collaborating on innovative projects, especially in **fintech**, **health-tech**, **Web3**, and **AI integrations**.
@@ -127,6 +119,14 @@ I'm always interested in collaborating on innovative projects, especially in **f
 - 💼 LinkedIn: [linkedin.com/in/kasopeabolade](https://linkedin.com/in/kasopeabolade)
 - 🐙 GitHub: [github.com/karshkodes2](https://github.com/karshkodes2)
 - 🦊 GitLab: [gitlab.com/kabolade](https://gitlab.com/kabolade)
+
+---
+
+### 💭 Philosophy
+
+<p align="center">
+  <i>"Questions, Not Answers create knowledge."</i>
+</p>
 
 ---
 
