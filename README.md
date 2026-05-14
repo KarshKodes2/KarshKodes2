@@ -124,7 +124,7 @@ Developed AI-powered post-transaction recommendation engine using Next.js, incre
 I'm always interested in collaborating on innovative projects, especially in **fintech**, **health-tech**, **Web3**, and **AI integrations**.
 
 - 📧 Email: [aboladekasope@gmail.com](mailto:aboladekasope@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kabolade](https://linkedin.com/in/kabolade)
+- 💼 LinkedIn: [linkedin.com/in/kasopeabolade](https://linkedin.com/in/kasopeabolade)
 - 🐙 GitHub: [github.com/karshkodes2](https://github.com/karshkodes2)
 - 🦊 GitLab: [gitlab.com/kabolade](https://gitlab.com/kabolade)
 
