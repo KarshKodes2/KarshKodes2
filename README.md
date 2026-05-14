@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Kasope Abolade 👋</h1>
+<h1 align="center">Hi, I'm Kasope Abolade 👋</h1>
 
 <h3 align="center">Senior Frontend Developer | Mobile & Web Specialist </h3>
 
 <p align="center">
   <a href="mailto:aboladekasope@gmail.com"><img src="https://img.shields.io/badge/Email-aboladekasope%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/kabolade"><img src="https://img.shields.io/badge/LinkedIn-kabolade-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/kasopeabolade"><img src="https://img.shields.io/badge/LinkedIn-kasopeabolade-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/karshkodes2"><img src="https://img.shields.io/badge/GitHub-karshkodes2-black?style=flat-square&logo=github"></a>
   <a href="https://gitlab.com/kabolade"><img src="https://img.shields.io/badge/GitLab-kabolade-orange?style=flat-square&logo=gitlab"></a>
 </p>
@@ -96,7 +96,7 @@ Fintech mobile application for digital payments and social activities. Built wit
 #### 🏥 [KIIRA Health Assistant](https://www.kiira.io)
 Women-centric health assistant helping users navigate health, find clinicians, and set up appointments. Focused on improving healthcare accessibility.
 
-#### 💼 VULTe Banking Platform
+#### 💼 [VULTe Banking Platform](https://www.vulte.ng/)
 Developed AI-powered post-transaction recommendation engine using Next.js, increasing banking engagement by 10%.
 
 ---
@@ -116,7 +116,7 @@ Developed AI-powered post-transaction recommendation engine using Next.js, incre
 I'm always interested in collaborating on innovative projects, especially in **fintech**, **health-tech**, **Web3**, and **AI integrations**.
 
 - 📧 Email: [aboladekasope@gmail.com](mailto:aboladekasope@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kabolade](https://linkedin.com/in/kabolade)
+- 💼 LinkedIn: [linkedin.com/in/kasopeabolade](https://linkedin.com/in/kasopeabolade)
 - 🐙 GitHub: [github.com/karshkodes2](https://github.com/karshkodes2)
 - 🦊 GitLab: [gitlab.com/kabolade](https://gitlab.com/kabolade)
 
